@@ -2,16 +2,16 @@
 SQL-based pizza sales analysis project extracting business insights on revenue, demand patterns, and top-performing products using joins, aggregations, and advanced SQL queries.
 # SQL Pizza Sales Analysis
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes pizza sales data using SQL to uncover key business insights from a relational database. The analysis progresses from basic metrics to advanced revenue-based insights, demonstrating strong SQL querying and analytical skills.
 
-## 🗂️ Dataset & Tables Used
+##  Dataset & Tables Used
 - orders  
 - order_details  
 - pizzas  
 - pizza_type  
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### Basic Analysis
 - Total number of orders placed  
@@ -32,7 +32,7 @@ This project analyzes pizza sales data using SQL to uncover key business insight
 - Cumulative revenue analysis over time  
 - Top 3 revenue-generating pizzas within each category  
 
-## 🛠️ SQL Skills Used
+##  SQL Skills Used
 - SELECT, WHERE, ORDER BY  
 - GROUP BY, HAVING  
 - INNER JOINs  
@@ -42,13 +42,13 @@ This project analyzes pizza sales data using SQL to uncover key business insight
 - Date & Time Functions  
 - Percentage & Cumulative Analysis  
 
-## 🎯 Key Takeaways
+## Key Takeaways
 - Identified top-selling and high-revenue pizzas  
 - Analyzed customer ordering behavior and time-based trends  
 - Derived actionable insights to support data-driven business decisions  
 
 ---
 
-## 📌 Author
+##  Author
 Priya Singh  
 MBA – Business Analytics | UPES Dehradun × KPMG
